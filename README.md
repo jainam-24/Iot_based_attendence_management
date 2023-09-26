@@ -16,3 +16,4 @@ TO implement the following project:
 5) After setting the baud rate, close the arduino ide and open excel sheet with dedicated macro in it.
 6) Allow for macro in excel and then scan the rfid tags on rfid module.
 7) Database of students along with their credentials will be recorded in excel sheet.  
+![picture](https://github.com/jainam-24/Iot_based_attendence_management/assets/123236016/efab755c-afc3-4886-a7ff-6c09620e7885)
